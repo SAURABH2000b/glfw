@@ -14,6 +14,7 @@ project "GLFW"
         "src/init.c",
         "src/input.c",
         "src/monitor.c",
+		"src/internal.h",
         "src/vulkan.c",
         "src/window.c"
     }
